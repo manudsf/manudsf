@@ -8,8 +8,7 @@
 <div style="display: inline_block"><br>
   <h5> Atualmente estou aprendendo:<h5>
   <img align="center" alt="Manu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Manu-c++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-plain.svg">
-  <img align="right" alt="Manu-pic" height="150" style="border-radius:50px;" src="(https://img.freepik.com/free-vector/set-cute-anime-gamer-girl-mascot-cartoon-suitable-gaming-streamer-logo_162048-235.jpg)">
+   <img align="center" alt="Manu-c++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
 </div>
   
   ##
